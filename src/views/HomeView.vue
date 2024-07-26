@@ -1,9 +1,11 @@
 <script setup>
-import FormComponent from '@/components/FormComponent.vue';
+import MainComponent from '@/components/MainComponent.vue';
 </script>
 
 <template>
-  <main>
-  <form-component/>
-  </main>
+  <MainComponent/>
 </template>
+
+<style scoped>
+
+</style>
